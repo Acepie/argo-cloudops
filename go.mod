@@ -34,6 +34,6 @@ require (
 	google.golang.org/grpc v1.38.0
 	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/api v0.19.6
-	k8s.io/apimachinery v0.19.6
+	k8s.io/api v0.22.3
+	k8s.io/apimachinery v0.22.3
 )
